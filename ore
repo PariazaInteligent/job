@@ -6,5 +6,237 @@
     "endTime": "13:25",
     "hours": 6.483333333333333,
     "isFridayForRedistribution": false
+  },
+  {
+    "id": "513a025c-ecdc-4a28-9544-29eee914a51e",
+    "date": "2025-05-02",
+    "startTime": "06:39",
+    "endTime": "15:04",
+    "hours": 8.416666666666666,
+    "isFridayForRedistribution": true
+  },
+  {
+    "id": "bcdd98e4-3d03-48a9-b923-5b7cb6be54ec",
+    "date": "2025-05-03",
+    "startTime": "08:39",
+    "endTime": "16:31",
+    "hours": 7.866666666666666,
+    "isFridayForRedistribution": false
+  },
+  {
+    "id": "bde740fb-ed70-41ca-91e1-3a996dad92ea",
+    "date": "2025-05-04",
+    "startTime": "08:46",
+    "endTime": "13:20",
+    "hours": 4.566666666666666,
+    "isFridayForRedistribution": false
+  },
+  {
+    "id": "0cf219c3-8f9e-48c1-9895-dc6fe30c526d",
+    "date": "2025-05-05",
+    "startTime": "06:28",
+    "endTime": "15:53",
+    "hours": 9.416666666666666,
+    "isFridayForRedistribution": false
+  },
+  {
+    "id": "25a25c79-d0ec-4834-b641-4a54336b3add",
+    "date": "2025-05-06",
+    "startTime": "07:09",
+    "endTime": "15:56",
+    "hours": 8.783333333333333,
+    "isFridayForRedistribution": false
+  },
+  {
+    "id": "52d6769a-48df-4628-aa6d-8b1ee2cb111f",
+    "date": "2025-05-07",
+    "startTime": "07:07",
+    "endTime": "15:13",
+    "hours": 8.1,
+    "isFridayForRedistribution": false
+  },
+  {
+    "id": "2f1e16a7-fe01-4102-97eb-ff7217968deb",
+    "date": "2025-05-08",
+    "startTime": "06:30",
+    "endTime": "15:03",
+    "hours": 8.55,
+    "isFridayForRedistribution": false
+  },
+  {
+    "id": "ce8023e2-d419-435e-9fea-f73743b906d1",
+    "date": "2025-05-09",
+    "startTime": "06:39",
+    "endTime": "18:33",
+    "hours": 11.9,
+    "isFridayForRedistribution": true
+  },
+  {
+    "id": "1cc04d3c-bbf4-48ef-85c4-813ba7498260",
+    "date": "2025-05-10",
+    "startTime": "08:00",
+    "endTime": "13:26",
+    "hours": 5.433333333333334,
+    "isFridayForRedistribution": false
+  },
+  {
+    "id": "e6ddaaae-72c7-4f31-90c3-26096a104c7e",
+    "date": "2025-05-11",
+    "startTime": "09:07",
+    "endTime": "13:48",
+    "hours": 4.683333333333334,
+    "isFridayForRedistribution": false
+  },
+  {
+    "id": "d5ae4ee2-79cd-4afc-89c0-a0e65639195d",
+    "date": "2025-05-12",
+    "startTime": "06:29",
+    "endTime": "15:02",
+    "hours": 8.55,
+    "isFridayForRedistribution": false
+  },
+  {
+    "id": "985a9507-c65f-4cb2-bc3e-bfae9e862758",
+    "date": "2025-05-13",
+    "startTime": "06:34",
+    "endTime": "14:58",
+    "hours": 8.4,
+    "isFridayForRedistribution": false
+  },
+  {
+    "id": "f96b6623-0ddf-4337-8961-a4128cc1a501",
+    "date": "2025-05-14",
+    "startTime": "06:31",
+    "endTime": "15:14",
+    "hours": 8.716666666666667,
+    "isFridayForRedistribution": false
+  },
+  {
+    "id": "7485153c-abe7-4375-9ccb-5534841c073f",
+    "date": "2025-05-15",
+    "startTime": "06:28",
+    "endTime": "14:57",
+    "hours": 8.483333333333333,
+    "isFridayForRedistribution": false
+  },
+  {
+    "id": "77e9fb3c-558e-4761-afb4-8b327d21b266",
+    "date": "2025-05-16",
+    "startTime": "06:36",
+    "endTime": "16:10",
+    "hours": 9.566666666666666,
+    "isFridayForRedistribution": true
+  },
+  {
+    "id": "c40d67da-408f-43a1-98af-ea0c93e2c8c4",
+    "date": "2025-05-17",
+    "startTime": "08:46",
+    "endTime": "13:49",
+    "hours": 5.05,
+    "isFridayForRedistribution": false
+  },
+  {
+    "id": "e769247b-6b0e-419a-978d-179596367124",
+    "date": "2025-05-18",
+    "startTime": "08:41",
+    "endTime": "11:59",
+    "hours": 3.3,
+    "isFridayForRedistribution": false
+  },
+  {
+    "id": "f0b6a3fc-8d91-4998-b718-51ef9a62cd7c",
+    "date": "2025-05-19",
+    "startTime": "06:30",
+    "endTime": "15:12",
+    "hours": 8.7,
+    "isFridayForRedistribution": false
+  },
+  {
+    "id": "b2071166-c306-43ed-aae2-9f7a5ce9bc7f",
+    "date": "2025-05-20",
+    "startTime": "06:29",
+    "endTime": "16:51",
+    "hours": 10.366666666666667,
+    "isFridayForRedistribution": false
+  },
+  {
+    "id": "11b8d48c-c2d1-4680-9d8c-5c8120b38bbb",
+    "date": "2025-05-21",
+    "startTime": "06:29",
+    "endTime": "15:01",
+    "hours": 8.533333333333333,
+    "isFridayForRedistribution": false
+  },
+  {
+    "id": "a1e38c4e-e8c5-44a2-8b87-1fe4fbcc1f0d",
+    "date": "2025-05-22",
+    "startTime": "06:29",
+    "endTime": "15:13",
+    "hours": 8.733333333333333,
+    "isFridayForRedistribution": false
+  },
+  {
+    "id": "9a86d630-b444-4d13-a7c1-395bed5198b1",
+    "date": "2025-05-23",
+    "startTime": "06:39",
+    "endTime": "15:07",
+    "hours": 8.466666666666667,
+    "isFridayForRedistribution": true
+  },
+  {
+    "id": "c4c8c00c-67c3-4249-bc5e-54354982fe71",
+    "date": "2025-05-24",
+    "startTime": "08:18",
+    "endTime": "13:34",
+    "hours": 5.266666666666667,
+    "isFridayForRedistribution": false
+  },
+  {
+    "id": "e6b96d62-51c9-4826-909c-b30a02bf6fc6",
+    "date": "2025-05-25",
+    "startTime": "08:56",
+    "endTime": "12:22",
+    "hours": 3.433333333333333,
+    "isFridayForRedistribution": false
+  },
+  {
+    "id": "0561ff6a-fe58-4cb8-94e2-09f9580ea584",
+    "date": "2025-05-26",
+    "startTime": "06:32",
+    "endTime": "15:01",
+    "hours": 8.483333333333333,
+    "isFridayForRedistribution": false
+  },
+  {
+    "id": "92997783-34d5-43e7-8412-19caf557735c",
+    "date": "2025-05-27",
+    "startTime": "06:31",
+    "endTime": "15:14",
+    "hours": 8.716666666666667,
+    "isFridayForRedistribution": false
+  },
+  {
+    "id": "1b859c27-da76-40dc-b98c-4fcaefaa9983",
+    "date": "2025-05-28",
+    "startTime": "06:29",
+    "endTime": "15:11",
+    "hours": 8.7,
+    "isFridayForRedistribution": false
+  },
+  {
+    "id": "aa88427c-bc90-4c9c-8c5a-d1c1f850784f",
+    "date": "2025-05-29",
+    "startTime": "06:29",
+    "endTime": "15:03",
+    "hours": 8.566666666666666,
+    "isFridayForRedistribution": false
+  },
+  {
+    "id": "e143f55f-ab46-436d-89f6-c6f3840b71bb",
+    "date": "2025-05-30",
+    "startTime": "06:53",
+    "endTime": "15:31",
+    "hours": 8.633333333333333,
+    "isFridayForRedistribution": true
   }
 ]
