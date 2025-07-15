@@ -1,1 +1,10 @@
-test
+[
+  {
+    "id": "329554bf-74b6-4e16-8527-50fe7e76d395",
+    "date": "2025-05-01",
+    "startTime": "06:56",
+    "endTime": "13:25",
+    "hours": 6.483333333333333,
+    "isFridayForRedistribution": false
+  }
+]
