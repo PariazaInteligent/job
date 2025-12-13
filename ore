@@ -1548,130 +1548,180 @@
   ],
   "motherEntries": [
     {
+      "id": "18bbfa61-fa91-48ad-b0f2-9cddc7995595",
       "date": "2025-12-13",
       "hours": 4,
       "minutes": 0,
       "rate": 12,
-      "id": "18bbfa61-fa91-48ad-b0f2-9cddc7995595"
+      "type": "work"
     },
     {
+      "id": "dd05c997-f124-4961-98ae-6c2fd34054d7",
       "date": "2025-12-12",
       "hours": 4,
       "minutes": 0,
       "rate": 12,
-      "id": "dd05c997-f124-4961-98ae-6c2fd34054d7"
+      "type": "work"
     },
     {
+      "id": "f15cdc48-f4a4-4c77-b7f5-2d0b93e5197b",
       "date": "2025-12-11",
       "hours": 3,
       "minutes": 0,
       "rate": 12,
-      "id": "f15cdc48-f4a4-4c77-b7f5-2d0b93e5197b"
+      "type": "work"
     },
     {
+      "id": "844bf1ed-943e-4b29-876e-0a7e90557105",
       "date": "2025-12-10",
       "hours": 3,
       "minutes": 0,
       "rate": 12,
-      "id": "844bf1ed-943e-4b29-876e-0a7e90557105"
+      "type": "work"
     },
     {
+      "id": "12640994-e56e-45a1-925f-8743b454fc4a",
       "date": "2025-12-09",
       "hours": 3,
       "minutes": 0,
       "rate": 12,
-      "id": "12640994-e56e-45a1-925f-8743b454fc4a"
+      "type": "work"
     },
     {
+      "date": "2025-12-06",
+      "hours": 0,
+      "minutes": 0,
+      "rate": 0,
+      "type": "sick",
+      "id": "b0b94e65-b3a3-488b-943a-6286a324790c"
+    },
+    {
+      "date": "2025-12-05",
+      "hours": 0,
+      "minutes": 0,
+      "rate": 0,
+      "type": "sick",
+      "id": "bab1eef2-b648-4fb9-88eb-f01528d8b0a1"
+    },
+    {
+      "date": "2025-12-04",
+      "hours": 0,
+      "minutes": 0,
+      "rate": 0,
+      "type": "sick",
+      "id": "475d479c-d686-4f05-acea-866094708dca"
+    },
+    {
+      "date": "2025-12-03",
+      "hours": 0,
+      "minutes": 0,
+      "rate": 0,
+      "type": "sick",
+      "id": "b13e3197-9517-4677-a796-265113416915"
+    },
+    {
+      "id": "a37dfcfe-1012-458f-a745-eae57fb2d3d5",
       "date": "2025-12-02",
       "hours": 3,
       "minutes": 15,
       "rate": 12,
-      "id": "a37dfcfe-1012-458f-a745-eae57fb2d3d5"
+      "type": "work"
     },
     {
+      "id": "a51e4523-c6c7-42f2-82eb-bf3933587d2f",
       "date": "2025-12-01",
       "hours": 3,
       "minutes": 15,
       "rate": 12,
-      "id": "a51e4523-c6c7-42f2-82eb-bf3933587d2f"
+      "type": "work"
     },
     {
+      "id": "af3998cd-d73e-4ca0-88d4-21daf7513f28",
       "date": "2025-11-29",
       "hours": 4,
       "minutes": 0,
       "rate": 12,
-      "id": "af3998cd-d73e-4ca0-88d4-21daf7513f28"
+      "type": "work"
     },
     {
+      "id": "c9e31123-a63a-448c-9519-76489b26304f",
       "date": "2025-11-28",
       "hours": 3,
       "minutes": 20,
       "rate": 12,
-      "id": "c9e31123-a63a-448c-9519-76489b26304f"
+      "type": "work"
     },
     {
+      "id": "edebb08a-cf5f-46bd-a094-808b92910ef9",
       "date": "2025-11-26",
       "hours": 3,
       "minutes": 15,
       "rate": 12,
-      "id": "edebb08a-cf5f-46bd-a094-808b92910ef9"
+      "type": "work"
     },
     {
+      "id": "d2c577d9-bb4e-4de9-96d5-30584cfe80e1",
       "date": "2025-11-25",
       "hours": 3,
       "minutes": 10,
       "rate": 12,
-      "id": "d2c577d9-bb4e-4de9-96d5-30584cfe80e1"
+      "type": "work"
     },
     {
+      "id": "af7045d5-a374-4750-b92a-20e092233380",
       "date": "2025-11-24",
       "hours": 3,
       "minutes": 15,
       "rate": 12,
-      "id": "af7045d5-a374-4750-b92a-20e092233380"
+      "type": "work"
     },
     {
+      "id": "b823dc25-97e4-4464-a5e5-a2115a541b38",
       "date": "2025-11-22",
       "hours": 4,
       "minutes": 0,
       "rate": 12,
-      "id": "b823dc25-97e4-4464-a5e5-a2115a541b38"
+      "type": "work"
     },
     {
+      "id": "cb3db683-fdb5-4f22-abf6-06ee06ee1fa7",
       "date": "2025-11-21",
       "hours": 3,
       "minutes": 0,
       "rate": 12,
-      "id": "cb3db683-fdb5-4f22-abf6-06ee06ee1fa7"
+      "type": "work"
     },
     {
+      "id": "c9010dbf-f35a-485b-9144-bbdfee8605ec",
       "date": "2025-11-20",
       "hours": 3,
       "minutes": 15,
       "rate": 12,
-      "id": "c9010dbf-f35a-485b-9144-bbdfee8605ec"
+      "type": "work"
     },
     {
+      "id": "cef3faa9-e182-420b-8773-06aee70c2357",
       "date": "2025-11-19",
       "hours": 3,
       "minutes": 15,
       "rate": 12,
-      "id": "cef3faa9-e182-420b-8773-06aee70c2357"
+      "type": "work"
     },
     {
+      "id": "62f42701-e51b-48bb-b43c-70e708d06ce8",
       "date": "2025-11-18",
       "hours": 3,
       "minutes": 15,
       "rate": 12,
-      "id": "62f42701-e51b-48bb-b43c-70e708d06ce8"
+      "type": "work"
     },
     {
+      "id": "ac140b28-033c-43b7-91e5-2743be259ad9",
       "date": "2025-11-17",
       "hours": 3,
       "minutes": 15,
       "rate": 12,
-      "id": "ac140b28-033c-43b7-91e5-2743be259ad9"
+      "type": "work"
     }
   ],
   "receivedSalaries": {
